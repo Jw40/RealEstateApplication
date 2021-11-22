@@ -1,0 +1,80 @@
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.exe
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.deps.json
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.runtimeconfig.json
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.runtimeconfig.dev.json
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\bin\Debug\net5.0\ref\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.pdb
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.AssemblyInfo.cs
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\obj\Debug\net5.0\ref\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.pdb
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.genruntimeconfig.cache
+C:\Users\James\Desktop\CAB201 C#\Assignment\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.csprojAssemblyReference.cache
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.exe
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.deps.json
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.runtimeconfig.json
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.runtimeconfig.dev.json
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\bin\Debug\net5.0\ref\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.pdb
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.csprojAssemblyReference.cache
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.AssemblyInfo.cs
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\obj\Debug\net5.0\ref\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.pdb
+C:\Users\James\Desktop\CAB201 C#\AssignmentDone\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.genruntimeconfig.cache
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.exe
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.deps.json
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.runtimeconfig.json
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.runtimeconfig.dev.json
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\ref\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.pdb
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.csprojAssemblyReference.cache
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.AssemblyInfo.cs
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\ref\RealEstateApplication.dll
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.pdb
+C:\Users\James\Desktop\CAB201 C#\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.genruntimeconfig.cache
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.exe
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.deps.json
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.runtimeconfig.json
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.runtimeconfig.dev.json
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.dll
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\ref\RealEstateApplication.dll
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\bin\Debug\net5.0\RealEstateApplication.pdb
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.csprojAssemblyReference.cache
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.AssemblyInfo.cs
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.dll
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\ref\RealEstateApplication.dll
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.pdb
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\TestUserInterface\obj\Debug\net5.0\RealEstateApplication.genruntimeconfig.cache
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\bin\Debug\net5.0\RealEstateApplication.exe
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\bin\Debug\net5.0\RealEstateApplication.deps.json
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\bin\Debug\net5.0\RealEstateApplication.runtimeconfig.json
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\bin\Debug\net5.0\RealEstateApplication.runtimeconfig.dev.json
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\bin\Debug\net5.0\RealEstateApplication.dll
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\bin\Debug\net5.0\ref\RealEstateApplication.dll
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\bin\Debug\net5.0\RealEstateApplication.pdb
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\obj\Debug\net5.0\RealEstateApplication.csprojAssemblyReference.cache
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\obj\Debug\net5.0\RealEstateApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\obj\Debug\net5.0\RealEstateApplication.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\obj\Debug\net5.0\RealEstateApplication.AssemblyInfo.cs
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\obj\Debug\net5.0\RealEstateApplication.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\obj\Debug\net5.0\RealEstateApplication.dll
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\obj\Debug\net5.0\ref\RealEstateApplication.dll
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\obj\Debug\net5.0\RealEstateApplication.pdb
+C:\Users\James\Desktop\AssignmentCompleted JamesWyattN8040478\RealEstateApplication\obj\Debug\net5.0\RealEstateApplication.genruntimeconfig.cache
