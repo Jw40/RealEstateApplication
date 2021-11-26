@@ -7,4 +7,4 @@ Search property (postcode).
 Bid on property.
 Sell Property to highest bidder.
 No database used, everything stored in memory.
-Ran in Visual studio, Console Application.
+Run in Visual studio, Console Application.
