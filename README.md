@@ -6,3 +6,4 @@ Create property (house or land).
 Search property (postcode).
 Bid on property.
 Sell Property to highest bidder.
+No database used, everything stored in memory.
